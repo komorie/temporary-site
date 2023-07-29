@@ -26,11 +26,11 @@ body, html {
 
 .loading {
   text-align: center;
-  font-size: 3vw; /* 텍스트 크기를 조절합니다 */
+  font-size: 6vh; /* 텍스트 크기를 조절합니다 */
 }
 
 .scrollIcon {
-  font-size: 4vw; /* 화살표 아이콘 크기를 조절합니다 */
+  font-size: 6vh; /* 화살표 아이콘 크기를 조절합니다 */
   color: #666; /* 화살표 아이콘 색상을 설정합니다 */
 }
 
